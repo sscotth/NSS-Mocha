@@ -4,8 +4,8 @@ NSS Mocha Example
 ### Option 1: qUnit style
 
 1. `bower init`
-2. `bower install chai --save`
-3. `bower install mocha --save`
+2. `bower install chai --save-dev`
+3. `bower install mocha --save-dev`
 4. make boilerplate index.html spec runner
 5. `open index.html`
 
